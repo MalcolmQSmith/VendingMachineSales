@@ -24,7 +24,8 @@ VendingMachineSales.ipynb
 Results
 The analysis of the vending machine sales data revealed several interesting insights:
 
-The most popular product category is Food, followed by carbonated and non-carbonated.
-The best-selling product overall is the KitKat Bar, followed by the Monster Energy Drink.
-There is a positive correlation between transaction amount and time of day, with the highest sales occurring in the afternoon and evening.
-These insights can be used to optimize the product offerings, pricing, and promotion strategies for the vending machine.
+-The most popular product category is Food, followed by carbonated and non-carbonated drinks
+- The best-selling product overall is the KitKat Bar, followed by the Monster Energy Drink.
+- There is a positive correlation between transaction amount and time of day, with the highest sales occurring in the afternoon and evening during the month of July. The least transactions occurred during the Winter months in the afternoon despite typical foot traffic from holiday shoppers.
+- These insights can be used to optimize the product offerings, pricing, and promotion strategies for the vending machine. This could be removing certain products that are not selling well or adding more of the popular products to prevent selling out.
+- The highest selling vending machine locations were located within the mall, while the least selling was in the library
