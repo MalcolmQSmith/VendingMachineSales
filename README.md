@@ -1,18 +1,16 @@
 # VendingMachineSales
-Displaying Vending Machine Sales Data via Python
-Vending Machine Sales Data Project
+
 This project analyzes sales data from a vending machine to identify trends, popular products, and opportunities for improvement. The data includes information on the date and time of each transaction, the product category, the product name, and the transaction amount.
 
-Installation
+## Installation
 To run this project, you'll need to have Python 3 installed, along with the following libraries:
-
-pandas
-matplotlib
+  -pandas
+  -matplotlib
 You can install these libraries using pip, like this:
 pip install pandas matplotlib
 This will run the script and generate the visualizations.
 
-Usage
+## Usage
 To use this project, you'll need to download the Vending Machine Sales Data file in CSV format. Then, you can run the vending_machine_sales.py script to analyze the data and generate visualizations.
 
 The script uses the pandas library to read the data file into a DataFrame, clean the data, and perform various analyses. It also uses the matplotlib library to create visualizations of the data.
@@ -21,7 +19,7 @@ The script includes several functions that perform different analyses and genera
 
 VendingMachineSales.ipynb
 
-Results
+## Results
 The analysis of the vending machine sales data revealed several interesting insights:
 
 -The most popular product category is Food, followed by carbonated and non-carbonated drinks
